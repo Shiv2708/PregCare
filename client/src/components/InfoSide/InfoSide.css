@@ -1,0 +1,21 @@
+.PostSidei {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  height: 100vh;
+  overflow: auto;
+}
+
+.b-buttonii {
+  height: 5em;
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: none;
+  background-color: linear-gradient(98.63deg, #ffcd94 0%, #f95f35 100%);
+  padding: 5px;
+  font-size: 17px;
+  border: none;
+  outline: none;
+  align-content: start;
+  text-align: left;
+}
